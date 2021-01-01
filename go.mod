@@ -1,4 +1,4 @@
-module fuzzybsd.com/hello
+module fuzzybsd.com/go_hello
 
 go 1.15
 
